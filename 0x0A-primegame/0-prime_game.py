@@ -1,3 +1,9 @@
+#!/usr/bin/python3
+"""
+    Determine the winner of each game and the overall winner.
+"""
+
+
 def isWinner(x, nums):
     """
     Determine the winner of each game and the overall winner.
